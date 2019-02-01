@@ -1,11 +1,16 @@
 _repo: Lives-of-Famous-Indian-Chiefs-From-Cofachiqui-the-Indian-Princess-and-Powhatan-down-to-and-in__58781
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58781-h/images/cover.jpg
 creator:
   author:
     agent_name: Wood, Norman B.
     gutenberg_agent_id: '50149'
     url: http://www.gutenberg.org/2009/agents/50149
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58781#Lives-of-Famous-Indian-Chiefs-From-Cofachiqui-the-Indian-Princess-and-Powhatan-down-to-and-in_
 gutenberg_issued: '2019-01-27'
 gutenberg_type: Text
 identifiers:
